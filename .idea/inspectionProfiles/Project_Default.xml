@@ -1,0 +1,63 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="aimap_crawler.utils.sort_by_instance" />
+          <option value="aimap_id" />
+          <option value="id" />
+          <option value="is_refused" />
+          <option value="application_id" />
+          <option value="application_id_parent_old" />
+          <option value="cert_pay" />
+          <option value="cert_pay_date" />
+          <option value="change_doc_type" />
+          <option value="change_reason" />
+          <option value="change_reason_arr" />
+          <option value="incoming_doc_date" />
+          <option value="incoming_doc_number" />
+          <option value="consequence_class" />
+          <option value="edrpou_code" />
+          <option value="edrpou_valid" />
+          <option value="org_name" />
+          <option value="proces_status" />
+          <option value="ret_date" />
+          <option value="service_id" />
+          <option value="org_id" />
+          <option value="date" />
+          <option value="permit_doc_id" />
+          <option value="apartm_number" />
+          <option value="street_name" />
+          <option value="house_number" />
+          <option value="region" />
+          <option value="build_number" />
+          <option value="district" />
+          <option value="city" />
+          <option value="address" />
+          <option value="index" />
+          <option value="type" />
+          <option value="formatted_address" />
+          <option value="status" />
+          <option value="code" />
+          <option value="reg_date" />
+          <option value="number" />
+          <option value="proj_doc_id" />
+          <option value="object_name" />
+          <option value="proj_doc_objects_id" />
+          <option value="property_name" />
+          <option value="property_value" />
+          <option value="proj_inv_doc_id" />
+          <option value="is_other_reason" />
+          <option value="submit_failure" />
+          <option value="is_non_compliance" />
+          <option value="other_reason" />
+          <option value="non_compliance" />
+          <option value="inaccurate_info" />
+          <option value="is_submit_failure" />
+          <option value="is_inaccurate_info" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
